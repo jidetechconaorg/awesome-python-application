@@ -1,0 +1,5 @@
+*.py @jide2020
+
+*.md @jaboo9
+
+/doc/* @jide2020
